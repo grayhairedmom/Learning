@@ -5,7 +5,7 @@ Learning
 ##I Hate Github
 ###It Sucks
 ---
-* -it's hard
-* -it's complicated
+* it's hard
+* it's complicated
 * --it's meant for coders
 * --i don't code
